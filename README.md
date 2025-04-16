@@ -1,1 +1,1 @@
-Crazy Cattle 3D with chat service rmeoved so your computer doesn't explode
+Crazy Cattle 3D with chat service removed so your computer doesn't explode
